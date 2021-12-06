@@ -38,5 +38,3 @@ function checkParanthesis(str) {
 }
 
 console.log(_checkParanthesis("()(("));
-
-// Bhai pallendrome fabocacci series factorial, array ka 3rd max nmber find
